@@ -1,6 +1,6 @@
 # DDR4-dimm-test
 
-Trying to make a DDR4 ram stick for fun
+I need DDR4 UDIMMs for some PCs I got but I don't feel like buying any so I'll make it myself and harvest chips from a dead 32GB RDIMM
 
 
 Resources used:
