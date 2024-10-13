@@ -10239,7 +10239,7 @@
 	(footprint "A_my_stuff:DDR4-BGA78"
 		(layer "F.Cu")
 		(uuid "38e8fb68-b780-4d57-a4de-7faf899b4752")
-		(at 100.2 94.3 180)
+		(at 94.425 97.525 180)
 		(descr "78-Ball FBGA – x4, x8 (SA)")
 		(tags "Integrated Circuit")
 		(property "Reference" "IC2"
@@ -19264,7 +19264,7 @@
 	(footprint "A_my_stuff:DDR4-BGA78"
 		(layer "F.Cu")
 		(uuid "7d66eb1b-ae3c-4df9-b94c-85571a1952fc")
-		(at 182.7 94.3 180)
+		(at 187.075 97.525 180)
 		(descr "78-Ball FBGA – x4, x8 (SA)")
 		(tags "Integrated Circuit")
 		(property "Reference" "IC7"
@@ -20285,7 +20285,7 @@
 	(footprint "A_my_stuff:DDR4-BGA78"
 		(layer "F.Cu")
 		(uuid "7dcaea36-e389-4585-831c-a30b457c6c12")
-		(at 172.05 94.3 180)
+		(at 177.725 97.525 180)
 		(descr "78-Ball FBGA – x4, x8 (SA)")
 		(tags "Integrated Circuit")
 		(property "Reference" "IC6"
@@ -21938,7 +21938,7 @@
 	(footprint "A_my_stuff:DDR4-BGA78"
 		(layer "F.Cu")
 		(uuid "7fa4aa8f-6dcb-4de7-ba8a-697cbf65e7cb")
-		(at 161.4 94.3 180)
+		(at 168.375 97.525 180)
 		(descr "78-Ball FBGA – x4, x8 (SA)")
 		(tags "Integrated Circuit")
 		(property "Reference" "IC5"
@@ -23589,7 +23589,7 @@
 	(footprint "A_my_stuff:DDR4-BGA78"
 		(layer "F.Cu")
 		(uuid "8992ac78-e640-4836-a1dd-8deceb78585e")
-		(at 110.85 94.3 180)
+		(at 103.775 97.525 180)
 		(descr "78-Ball FBGA – x4, x8 (SA)")
 		(tags "Integrated Circuit")
 		(property "Reference" "IC3"
@@ -24821,7 +24821,7 @@
 	(footprint "A_my_stuff:DDR4-BGA78"
 		(layer "F.Cu")
 		(uuid "89d11e8a-1ea9-4b21-816a-8eb8042eb8f5")
-		(at 121.5 94.3 180)
+		(at 113.125 97.525 180)
 		(descr "78-Ball FBGA – x4, x8 (SA)")
 		(tags "Integrated Circuit")
 		(property "Reference" "IC4"
@@ -33642,7 +33642,7 @@
 	(footprint "A_my_stuff:DDR4-BGA78"
 		(layer "F.Cu")
 		(uuid "d88ed3ab-ae63-4220-ae3f-c96bf820b965")
-		(at 193.35 94.3 180)
+		(at 196.425 97.525 180)
 		(descr "78-Ball FBGA – x4, x8 (SA)")
 		(tags "Integrated Circuit")
 		(property "Reference" "IC8"
@@ -39051,6 +39051,16 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(gr_line
+		(start 212.5 93.15)
+		(end 73.625 93.15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.2")
+		(uuid "6d535719-45dd-4c6f-959f-98b5f8373445")
 	)
 	(segment
 		(start 92.3 110.15)
