@@ -35493,7 +35493,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0e877e17-734e-4ccb-8832-85c699a75dfe")
-		(property "Reference" "IC7"
+		(property "Reference" "WAM7"
 			(at 372.11 210.82 0)
 			(effects
 				(font
@@ -35825,7 +35825,7 @@
 		(instances
 			(project "ddr4-dimm-test"
 				(path "/7ee79bc0-14ef-494f-949d-c7053b8cc15d"
-					(reference "IC7")
+					(reference "WAM7")
 					(unit 1)
 				)
 			)
@@ -36107,7 +36107,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "187f53d2-14d1-4386-84b6-66d9f5245434")
-		(property "Reference" "IC5"
+		(property "Reference" "WAM5"
 			(at 179.07 210.82 0)
 			(effects
 				(font
@@ -36439,7 +36439,7 @@
 		(instances
 			(project "ddr4-dimm-test"
 				(path "/7ee79bc0-14ef-494f-949d-c7053b8cc15d"
-					(reference "IC5")
+					(reference "WAM5")
 					(unit 1)
 				)
 			)
@@ -36455,7 +36455,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "19382b30-340c-4444-bf2f-76d8c95649bc")
-		(property "Reference" "IC6"
+		(property "Reference" "WAM6"
 			(at 275.59 210.82 0)
 			(effects
 				(font
@@ -36787,7 +36787,7 @@
 		(instances
 			(project "ddr4-dimm-test"
 				(path "/7ee79bc0-14ef-494f-949d-c7053b8cc15d"
-					(reference "IC6")
+					(reference "WAM6")
 					(unit 1)
 				)
 			)
@@ -39199,7 +39199,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5893fe90-d7f7-42b7-80ba-0e9eed62df25")
-		(property "Reference" "IC8"
+		(property "Reference" "WAM8"
 			(at 468.63 210.82 0)
 			(effects
 				(font
@@ -39531,7 +39531,7 @@
 		(instances
 			(project "ddr4-dimm-test"
 				(path "/7ee79bc0-14ef-494f-949d-c7053b8cc15d"
-					(reference "IC8")
+					(reference "WAM8")
 					(unit 1)
 				)
 			)
@@ -40008,7 +40008,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5dc49ad9-7fa0-4788-9422-b66bcc46e613")
-		(property "Reference" "IC1"
+		(property "Reference" "WAM1"
 			(at 177.8 29.21 0)
 			(effects
 				(font
@@ -40340,7 +40340,7 @@
 		(instances
 			(project "ddr4-dimm-test"
 				(path "/7ee79bc0-14ef-494f-949d-c7053b8cc15d"
-					(reference "IC1")
+					(reference "WAM1")
 					(unit 1)
 				)
 			)
@@ -40756,7 +40756,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65e222ff-b4bb-45f3-bd6c-c9722451977d")
-		(property "Reference" "IC3"
+		(property "Reference" "WAM3"
 			(at 370.84 29.21 0)
 			(effects
 				(font
@@ -41088,7 +41088,7 @@
 		(instances
 			(project "ddr4-dimm-test"
 				(path "/7ee79bc0-14ef-494f-949d-c7053b8cc15d"
-					(reference "IC3")
+					(reference "WAM3")
 					(unit 1)
 				)
 			)
@@ -41104,7 +41104,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "67317854-7709-4d0b-a99d-476d2b87e1ef")
-		(property "Reference" "IC2"
+		(property "Reference" "WAM2"
 			(at 274.32 29.21 0)
 			(effects
 				(font
@@ -41436,7 +41436,7 @@
 		(instances
 			(project "ddr4-dimm-test"
 				(path "/7ee79bc0-14ef-494f-949d-c7053b8cc15d"
-					(reference "IC2")
+					(reference "WAM2")
 					(unit 1)
 				)
 			)
@@ -41519,7 +41519,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "69e08f05-92fc-4623-841a-af623dbc197d")
-		(property "Reference" "IC4"
+		(property "Reference" "WAM4"
 			(at 467.36 29.21 0)
 			(effects
 				(font
@@ -41851,7 +41851,7 @@
 		(instances
 			(project "ddr4-dimm-test"
 				(path "/7ee79bc0-14ef-494f-949d-c7053b8cc15d"
-					(reference "IC4")
+					(reference "WAM4")
 					(unit 1)
 				)
 			)
