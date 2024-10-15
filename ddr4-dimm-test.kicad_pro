@@ -556,6 +556,14 @@
       {
         "netclass": "power",
         "pattern": "V??"
+      },
+      {
+        "netclass": "data bus",
+        "pattern": "ECC*"
+      },
+      {
+        "netclass": "data bus",
+        "pattern": "*CB*"
       }
     ]
   },
