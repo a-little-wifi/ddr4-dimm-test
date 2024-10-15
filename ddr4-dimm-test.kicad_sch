@@ -51645,7 +51645,7 @@
 				)
 			)
 		)
-		(property "Value" "0.01uF"
+		(property "Value" "0.1uF"
 			(at 568.96 347.98 90)
 			(effects
 				(font
