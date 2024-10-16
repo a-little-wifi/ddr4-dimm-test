@@ -2413,7 +2413,7 @@
 		(path "/8bdff364-2c4a-4c99-9690-5f5028056cf6")
 		(sheetname "Root")
 		(sheetfile "ddr4-dimm-test.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.153641 0.38)
 			(end 0.153641 0.379999)
@@ -3886,7 +3886,7 @@
 		(path "/03cb2d65-49a2-45f1-9242-5903df212ac6")
 		(sheetname "Root")
 		(sheetfile "ddr4-dimm-test.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.153641 -0.38)
 			(end 0.153641 -0.379999)
@@ -4097,7 +4097,7 @@
 		(path "/9d828cad-7f0b-47d4-9933-b701be33e8b0")
 		(sheetname "Root")
 		(sheetfile "ddr4-dimm-test.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.153641 -0.38)
 			(end 0.153641 -0.379999)
@@ -12438,7 +12438,7 @@
 		(path "/90011d8d-40c4-4cd1-82d3-ff8cc7ea5a86")
 		(sheetname "Root")
 		(sheetfile "ddr4-dimm-test.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.153641 0.38)
 			(end 0.153641 0.379999)
@@ -20230,7 +20230,7 @@
 		(path "/9808261a-0eac-4370-8998-a7a3410d2bfa")
 		(sheetname "Root")
 		(sheetfile "ddr4-dimm-test.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.153641 0.38)
 			(end 0.153641 0.379999)
@@ -28705,7 +28705,7 @@
 		(path "/a9d9f23b-6c41-44ec-bed6-43504ada1815")
 		(sheetname "Root")
 		(sheetfile "ddr4-dimm-test.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.153641 0.38)
 			(end 0.15364 0.379999)
@@ -29968,7 +29968,7 @@
 		(path "/57ed1bf9-f7a5-4cfe-b403-a5d069ee76e0")
 		(sheetname "Root")
 		(sheetfile "ddr4-dimm-test.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.153641 0.38)
 			(end 0.153641 0.379999)
@@ -31655,7 +31655,7 @@
 		(path "/471caf91-2a8e-4713-b538-78c03351d39e")
 		(sheetname "Root")
 		(sheetfile "ddr4-dimm-test.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.153641 -0.38)
 			(end 0.153641 -0.379999)
@@ -32288,7 +32288,7 @@
 		(path "/9d68a67f-4719-409f-97bc-22c75a07927e")
 		(sheetname "Root")
 		(sheetfile "ddr4-dimm-test.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.153641 -0.38)
 			(end 0.15364 -0.379999)
@@ -32921,7 +32921,7 @@
 		(path "/70d36b0c-b67d-4826-ba47-76f752314faa")
 		(sheetname "Root")
 		(sheetfile "ddr4-dimm-test.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.153641 -0.38)
 			(end 0.15364 -0.379999)
@@ -33343,7 +33343,7 @@
 		(path "/cc1f269f-c3a9-424b-ab7f-27bbc07d9b1a")
 		(sheetname "Root")
 		(sheetfile "ddr4-dimm-test.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.153641 0.38)
 			(end 0.153641 0.379999)
@@ -33554,7 +33554,7 @@
 		(path "/5cd642ae-cf4a-4b1c-9b27-db80aee5a520")
 		(sheetname "Root")
 		(sheetfile "ddr4-dimm-test.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -0.153641 0.38)
 			(end 0.153641 0.379999)
@@ -37592,7 +37592,7 @@
 		(path "/288cf4db-48b2-42f0-9076-d6a400e8ae11")
 		(sheetname "Root")
 		(sheetfile "ddr4-dimm-test.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start 3.763001 -5.5)
 			(end 3.763 5.500002)
@@ -39129,7 +39129,7 @@
 				)
 			)
 		)
-		(property "Value" "0.01uF"
+		(property "Value" "0.1uF"
 			(at 0 1.16 0)
 			(layer "F.Fab")
 			(uuid "dfa1e603-76af-49fd-8dfa-c940029c509a")
@@ -42661,6 +42661,23 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(gr_poly
+		(pts
+			(xy 131.159849 55.749242) (xy 134.259849 57.599242) (xy 137.225 59.85) (xy 141.025 61.775) (xy 143.2 59.425)
+			(xy 144.784849 58.474242) (xy 150.325 59.25) (xy 151.475 58.175) (xy 148.05 57.7) (xy 150.525 57.275)
+			(xy 149.475 56.35) (xy 150.075 55.325) (xy 152.15 56.5) (xy 151.8 57.15) (xy 154.875 57.175) (xy 157.925 60.15)
+			(xy 153.625 58.95) (xy 151.175 63.175) (xy 150.034849 62.599242) (xy 149.409849 63.524242) (xy 150.184849 64.224242)
+			(xy 149.534849 64.424242) (xy 148.209849 62.574242) (xy 146.884849 62.524242) (xy 146.609849 64.924242)
+			(xy 144.784849 67.174242) (xy 148.709849 69.799242) (xy 141.2 68.9) (xy 140.95 65.4) (xy 134.9 63.175)
+		)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill none)
+		(layer "User.1")
+		(uuid "ffdd6c45-31fb-465c-83dd-bbf226620529")
 	)
 	(gr_line
 		(start 212.5 93.15)
