@@ -9,3 +9,6 @@ Resources used:
 - https://github.com/DiodeRed/kicad-footprint-ddr4-dimm
 - Random motherboard schematics
 - DDR4 specification
+
+for future sodimm version?? :3
+- https://github.com/Wallbraker/SODIMM
